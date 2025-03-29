@@ -9,7 +9,7 @@ To use these packages in your ESPHome configuration, add them to the `packages:`
 ```yaml
 packages:
   my_package:
-    url: github://boneIO-eu/esphome-packages/
+    url: https://github.com/boneIO-eu/esphome-packages/
     files:
       - path: package_name.yaml
         vars: 
